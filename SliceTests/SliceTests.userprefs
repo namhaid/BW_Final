@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ToyRespawn.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControl/Grab.cs" Line="5" Column="10" />
+      <File FileName="Assets/Scripts/PlayerControl/StateManager.cs" Line="9" Column="21" />
+      <File FileName="Assets/Scripts/Stats.cs" Line="20" Column="25" />
+      <File FileName="Assets/Scripts/PlayerControl/Death.cs" Line="19" Column="26" />
+      <File FileName="Assets/Scripts/PlayerControl/CharacterControls.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl/CameraZoom.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/LightFlicker.cs" Line="13" Column="50" />
+      <File FileName="Assets/Scripts/WinState.cs" Line="19" Column="30" />
+      <File FileName="Assets/Scripts/ToyRespawn.cs" Line="5" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
